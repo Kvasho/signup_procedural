@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gray !important;
+    color: #fff !important;
+}
+
+h3 {
+    text-align: center;
+}
+
+.section {
+    width: 300px;
+    margin: auto;
+}
+
+.form-error {
+    color: red;
+    font-weight: bold;
+}
+
+.form-success {
+    color: rgb(67, 225, 67);
+    font-weight: bold;
+}
